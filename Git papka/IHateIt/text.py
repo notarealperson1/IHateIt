@@ -1,5 +1,4 @@
 
-
 """
 def generator():
     for i in range(1, 7):
@@ -80,16 +79,6 @@ generate_countdown(6)
 
 print("\nЗамыкание (умножение на m):")
 use_multiplier(6, 2)
-
-
-
-
-
-
-
-
-
-
 
 
 
